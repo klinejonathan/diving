@@ -15,29 +15,38 @@ description of various jumps, flow, gold line, etc. It’s generally either jump
 I’ve verified or passed and done enough research on (aggregating various dive
 reports, blogs, maps, etc.). There are still plenty I haven’t seen yet or
 haven’t bothered exploring. I started this adventure with a long swim on the
-gold line, and slowly branching out to various jumps and siphons. Turns out the
+gold line, and slowly branching out to various jumps and siphons. I've swam back
+to about 2,800', and have been gradually extending my exploration. Turns out the
 poor maps, high flow and lack of a scooter make it a good learning environment
 if you’re into figuring out how to read the cave, experiencing some poor
 conditions (probably of your own doing), and work on some more complex
-navigation and cave skills.
+navigation and cave skills. Over the last couple of months, I've taken advantage
+of the lower flow to verify both sides of the first 4 ts (all the way back to
+the trash room).
 
 It's probably obvious, but swimming in JB is usually the exception, there is a
 reason most divers and most real penetration happens on scooters. Realistically,
 you’re probably not swimming much past the trash room, as you start racking up
 some serious deco and you become pretty bailout limited on a rebreather or start
-requiring 2+ stages open circuit. I’ve heard that with a scooter and 2 stages
-(plus “back” gas) you can see pretty much everything on the map.
+requiring 2+ stages open circuit. On one trip when the flow was way down, it was
+right at 100 minutes to kick back to 2'800' (via the lower route), about 45
+minutes for the exit, 45 minutes of deco and a runtime right at 3 hours. I’ve
+heard that with a scooter and 2 stages (plus “back” gas) you can see pretty much
+see everything on the map.
 
 The main passage is generally very backmount friendly; many of the side tunnels
 however, especially in the first several thousand feet are either sidemount only
-or become sidemount quickly. I’ve had the fortune of discovering some of the not
-so backmount friendly tunnels while you guessed it, in a backmount rebreather;
-I’ve made some messes, I’ve had to back out, and some I’ve just looked at and
-went not happening.
+or become sidemount quickly. There are also various fissures where you end up
+swimming sideways through the cracks. I’ve had the fortune of discovering some
+of the not so backmount friendly tunnels while you guessed it, in a backmount
+rebreather; I’ve made some messes, I’ve had to back out, and some I’ve just
+looked at and went not happening.
 
 Most of the main passage (at least once you drop down the chimney), is around
-95’ until you get back towards King’s Canyon where it rises to about 80’, and
-there’s spots beyond King’s Canyon that get up to 60’ or so.
+95’ until you get back towards King’s Canyon where it rises to about 80’ (before
+dropping back down), and there’s spots beyond King’s Canyon that get up to 60’
+or so. It's relatively constant depth but there is definitely a good bit of
+sawtooth profile, depending on your dive plan.
 
 There are ‘T’s everywhere! Especially after about 3,000’ off the Gold Line.
 Bring a dozen or more line markers with you! Plastic colored clothespins work
@@ -69,9 +78,10 @@ spools, etc.
 If the spring is open to the public, the cavern is directly below the diving
 board, and it’ll probably surprise you the first couple of times you hear it.
 
-The entrance to the Meg tunnel is on the left of the cavern area at about 20’.
-It’s sidemount only and it may require equipment removal to even get into it. If
-you get bored on deco, it's a good thing to investigate and kill some time…
+The entrance to the Meg tunnel is on the right of the cavern area at about 20’
+(and 1 O'Clock if you're in the hour glass cave entrance).  It’s sidemount only
+and it may require equipment removal to even get into it. If you get bored on
+deco, it's a good thing to investigate and kill some time.
 
 # Gold Line
 
@@ -81,7 +91,8 @@ entrance, just past the deep area.
 Until the second breakdown, the Gold Line generally follows the cave’s right
 wall, about 4’ off the bottom. At the second breakdown, the line begins to run
 through the center of the cave, until just before the jump to King’s bypass,
-where it moves up to the ceiling.
+where it moves up to the ceiling, before coming back down and occasionally
+being buried in silt.
 
 There are only 3 marked (permanent) jumps on the Gold Line before the second
 break down, and plenty more that aren’t marked. There is also a set of blue
@@ -119,10 +130,17 @@ course, the process of zig zagging while fighting the flow is equally
 entertaining.
 
 I’ve checked it a couple of times, from the first ‘T’ back to the base of the
-chimney, about 800’ is about 70fpm without kicking. That’s just riding the flow
-more or less, occasionally with a tangent through sharp bends, and steering away
-from the main flow to go over the breakdowns. While kicking and taking a more
-direct path, you can probably make 75fpm or a bit more.
+chimney, about 800’ is about 70fpm without kicking with closer to normal flow.
+That’s just riding the flow more or less, occasionally with a tangent through
+sharp bends, and steering away from the main flow to go over the breakdowns.
+While kicking and taking a more direct path, you can probably make 75fpm or a
+bit more. On days with much less flow, I've made about 65fpm from 2,800' back to
+the cavern.
+
+I've been in JB on days where the flow seems to be perpendicular to the main
+tunnel (especially between the first 2 breakdowns and back towards the trash
+room). Similarly I've been back by King's Canyon and had to stop and check that
+it wasn't siphoning in spots.
 
 I’ve been in Goodman Siphon (doubled back to grab line markers after verifying
 the exit / setting the circuit), only to realize the flow had significantly
@@ -149,6 +167,10 @@ tunnel near the base of the chimney. From the “start” of the Goodman siphon
 line, you’ll be able to see the base of the chimney and the first jump, but
 you’ll still want to run a jump spool or find another way to verify it.
 
+Before you enter Goodman Siphon from Horseshoe, if you look up near the ceiling
+you'll find the jump to lost student tunnel. It's a fissure crack and barely
+backmount friendly (but it'll drop you out CHicken Head rock).
+
 Goodman Siphon is the first marked jump (double arrows) at the base of the
 Chimney. If you’re facing into the cave at the jump, look hard left (9 o’clock)
 and move up to about 10 o’clock, that’s the start of the siphon (up the small
@@ -157,7 +179,16 @@ and glide to be had. The siphon starts with a sand bottom and transitions to
 clay / silt. Swimming into the siphon is either pretty mild and manageable, or
 pretty brutal. You’ll round a bend and go down a silt mount, and back up. As
 you’re going up and under the minor backmount restriction you’ll find the ‘T’
-for the Horseshoe Circuit.  Squirrel / Lost Student Tunnel
+for the Horseshoe Circuit.  
+
+# Lost Student Tunnel
+
+This is a fissure crack, that starts in Horseshoe / Goodman Siphon and ends at
+Chicken Head Rock. It's silty, and barely backmount accessible. It's also a
+fissure crack, so you'll get the joy of swimming sideways because the crack
+isn't even wide enough for sidemount.
+
+# Squirrel 
 
 This tunnel is not marked on the Gold line, but it’s easy to find. About 30’
 further into the cave than the 1st jump, near the pillar on the right of the
@@ -165,9 +196,8 @@ main passage, if you look up and across to the left, you’ll find the entrance 
 the tunnel. The ceiling of the tunnel is about 80’ and the floor is about 85’.
 If you get to the 2nd marked jump, you went too far (so back up a couple of body
 lengths to the pillar). The line in the tunnel starts on the ceiling and moves
-down to the floor at the first bend. The tunnel becomes sidemount at about the
-1st breakdown and will eventually emerge at Chicken Head Rock making for a
-circuit.
+down to the floor at the first bend. The tunnel becomes sidemount as it enters
+another vertical fissure at about the 1st breakdown.
 
 Try to be a good citizen here and run your jump spool along the floor and up the
 wall, not through mid-water (or you might really surprise someone coming over
@@ -193,7 +223,7 @@ It’s relatively short and ends at the top of a sand mound; the line actually
 disappears into a sand restriction that can be dug out if you’re feeling extra
 adventurous, to get you 20’ further. Most of the siphon is an up and down
 (roller coaster), that has some tight spots backmount. There is also a very
-tight sidemount / nomount connection back to Granger’s Rock Garden (just before
+tight sidemount / no-mount connection back to Granger’s Rock Garden (just before
 the Chimney), that doesn’t seem to be lined (uhhh gee I wonder why?).
 
 # Parallel Lines
@@ -217,10 +247,10 @@ jump for the parallel lines.
 A pretty neat formation, and there’s a couple of unmarked (but lined) jumps
 behind and next to it. Chicken Head Rock is located ~700’ into the cave, on top
 of the first breakdown. At Chicken Head Rock, if you look left (almost inline
-with it’s head), you’ll see the sidemount entrance to the Squirrel / Lost
-Student tunnel. There is also a vertical shaft / crevice above the Chicken Head,
-which is sidemount only and supposedly goes up about 40’ before being too tight
-to pass.
+with it’s head), you’ll see the sidemount (becoming vertical fissure, so swim
+sideways)  exit of the Lost Student tunnel. There is also a vertical shaft /
+crevice above the Chicken Head, which is sidemount only and supposedly goes up
+about 40’ before being too tight to pass.
 
 # Unmarked / Unlined Tunnel @ 2nd Breakdown
 
@@ -241,8 +271,15 @@ drop over and you’ll still have some handholds to pull yourself; 3) Use the ju
 behind the rockpile on the left. Using the jump, will get you past the breakdown
 and minimize the flow, and just before you get to the next duck under, look
 right and you’ll see the Gold Line (doing this route properly takes 2 reels, or
-another way to verify your “exit” to Gold line). I wouldn’t go out of my way to
-encourage continuing under the duck under it gets very low and silty.
+another way to verify your "exit" to Gold line). I wouldn’t go out of my way to
+encourage continuing under the duck under, it gets very low and silty. I haven't
+personally tried it but there seems to be a couple of possible routes under /
+through the breakdown that might be viable (at least side mount if you don't
+mind a good squeeze).
+
+As you approach the big pillar, before making the turn to the left, there's a
+couple of small circuits. You can jump around the pillar, and explore a bit
+behind it (there seemed to be lots of fish back there).
 
 # 1st and 2nd ‘T’
 
@@ -251,12 +288,24 @@ on a debris cone at the 2nd ‘T’. Both branches of the ‘T’s are Gold Line
 
 # C&L Bypass
 
-The jump itself is not marked, but near the 1st ‘T’, you’ll find a line on the
-right, at the ceiling leading to it. The floor here is deep fine silt and easily
-stirred up, and if you stir it up you’re making a no vis exit. You can get
-fairly far backmount if you pick and choose carefully. There are rumors there is
-a long sidemount connection to King’s Bypass / King’s Canyon (my suspicion is
-that it’s the 3rd leg of the lower T in King’s Bypass).
+The jump itself is not marked (although lately there have been several personal
+markers there), but just past the 1st ‘T’, you’ll find a line on the right, at
+the ceiling leading to it. The floor here is deep fine silt on top of deep clay
+and easily stirred up, and if you stir it up you’re making a no vis exit. You
+can get fairly far backmount if you pick and choose carefully. There are rumors
+there is a long sidemount connection to King’s Bypass / King’s Canyon (my
+suspicion is that it’s the 3rd leg of the lower T in King’s Bypass). My
+confidence has increased that this route exists, as there are very identifiable
+personal markers at the jump to C&L and at the back of King's Bypass. 
+
+Just past the 2nd 'T', you can do a double jump into C&L on the right. Just look
+for an area that looks like it might be a tunnel (if you exit the debris pile
+and are over mud / silt you went too far). The first jump will take you into a
+tunnel almost as large as the main passage. If you go left, you can jump back to
+the gold line in a few hundreed feet, and to the right should be C&L. Before you
+get to the Gold line, you can take a low jump to the right, which is the
+continuation of C&L towards King's Bypass. Its low and very silty, but appeared
+at least semi backmount friendly (I turned just before King's Bypass).
 
 # Court’s Squeeze
 
@@ -264,13 +313,17 @@ This is the left side of the first ‘T’. It’s a roller coaster, from 90’ 
 and it ends in a minor backmount restriction to get back out to the 2nd ‘T’. The
 restriction itself really isn’t that tight, but it will take some maneuvering to
 get through it. This side is definitely prettier, but you’ll burn through a
-bunch of DIL and drysuit gas. It’s also where you’ll find the Queen’s Bypass
-sidemount tunnel. At least when I did this side, the flow was much higher than
-the right (I swam both on the same dive).
+bunch of DIL and drysuit gas. It’s also where you’ll find the start of Queen’s
+Bypass sidemount tunnel. At least when I did this side, the flow was much higher
+than the right (I swam both on the same dive).
+
+About 50' before the 'T' and Court's Squeeze, if you look high and to the left,
+you'll find a jump that takes you through a slightly larger area and bypasses
+the 2nd 'T'. You'll end up about 50' past the 2nd 'T'.
 
 # Zumrick Siphon
 
-The line begins 18” – 2’ from the Gold Line on the floor, and boy is the flow
+The line begins 18" – 2’ from the Gold Line on the floor, and boy is the flow
 ever kicking here. I haven’t gone very far, in fact I ended up here by accident
 (I turned away from the Gold Line cleaning up my line markers from the 2nd ‘T’
 and picked up the first line I saw coming off the debris cone. I made it several
@@ -290,24 +343,40 @@ the debris cone to Court’s Squeeze; there’s technically a personal marker on
 line you could use to make the jump to the Left, but you can probably make an
 educated guess if you study the maps enough (hint: the boulder piles from the
 maps are pretty obvious). The jump itself is across open water and giant mounds
-of silt, but you’ll see the jump after about 50 if you’re looking. This entrance
+of silt, but you’ll see the jump after about 50' if you’re looking. This entrance
 to it is called the “Pancake Stack”, and you can just barely squeeze in back
 mount if you try enough, but you will make a complete mess in doing so. Just
 remember if you get in backmount, you have to get back out (even if it ends up
-being zero vis). The “Pancake Stack” resembles a ‘V”, so you get to descend down
+being zero vis). The "Pancake Stack" resembles a "V", so you get to descend down
 the V (after trying multiple spots), worm through it as you ascend the other
-side of the ‘V’. You can likely go a good ways backmount but it would be tight
+side of the "V". You can likely go a good ways backmount but it would be tight
 and uncomfortable, there is a lot of duck unders and rolling slides.
 
+As shown on the map, you can jump into Queen's Bypass just past the jump to
+King's Bypass and swim it as a small circuit. At the first valley / gap after
+King's Bypass, there should be a line arrow. Tie in here, and turn to the left,
+follow the left canyon sloping down and you'll hit the jump before you go around
+the bend. Queen's Bypass is very similar to King's Canyon (narrow, multilevel
+canyon with very deep silt).  The canyon is narrow enough you'll probably make a
+bit of a mess regardless of how careful you are. You can get back 100-200'
+backmount easily and then it became a bit more gnarly; after you squeeze between
+the walls you'll come to a 'T' (the Left side takes you back towards the start
+at Court's Squeeze, and the right lets you take a small circuit if you set it up
+back towards King's Canyon). It's small and very silty, but I didn't have much
+of a problem backmount although I did make a bit of a mess.
 
 # Hall of the Mountain King
 
-Somwhere in here, just before the jump to King’s Bypass, the Gold Line moves up
+Somewhere in here, just before the jump to King’s Bypass, the Gold Line moves up
 to the ceiling. There are deep sand / silt piles everywhere, and it stays that
 way until the trash room. If you weren’t paying attention, you would stumble
 upon the line for King’s Bypass (as the Gold line is now about 5’ above you),
 and you might be really surprised when you find yourself in a low silty tunnel.
 Most of the floor in this area is deep silt.
+
+There is all sorts of interesting look "leads" on both the right and left here,
+most doesn't seem to have obvious jumps in them. At least one of the interesting
+leads here is the C&L bypass (about midway).
 
 # King’s Bypass
 
@@ -326,41 +395,55 @@ line in King’s Canyon.
 
 The jump to King’s Canyon is potentially hard to find, especially as you’re
 swimming into the cave, but it is absolutely worth the trip! After you pass the
-jump to King’s Bypass you’ll open up in a room that looks a bit like a backwards
-‘K’. The silt pile will taper off to the left (probably intersecting Queen’s
-Bypass if you’re looking at the maps), and the Gold Line continues to the right
-(on the long side of the ‘K’. There is a smaller rocked sticking out of the silt
-here, that anchors the gold line. If you look up and over the rock “island” on
-your right, you’ll see the start of the line to King’s Canyon behind your right
-shoulder (in the lower part of the ‘K’). Just be warned here, when you tie into
-the Gold Line you are on top of a very large silt pile, and the line is largely
-on the ceiling! The other option here, there is a marked jump 50-100’ past the
-tie in I’ve used, and just before the 2000’ marker. The marked jump is often
-buried in the sand (the line moves back to the floor just past King’s Canyon.
-The canyon goes from ~90’ to ~45’ and is absolutely gorgeous! There are
-essentially levels above and below the line here, and at the back of it you’ll
-find the jump to King’s Bypass and probably C&L bypass.
+jump to King’s Bypass you’ll eventually (in 2-300') open up in a room that looks
+a bit like a backwards ‘K’. The silt pile will taper off to the left (probably
+intersecting Queen’s Bypass if you’re looking at the maps), and the Gold Line
+continues to the right (on the long side of the ‘K’. There is a smaller flatish
+rock sticking out of the silt here, that anchors the gold line. If you look up
+and over the rock "island" on your right, you’ll see the start of the line to
+King’s Canyon behind your right shoulder (in the lower part of the ‘K’). Just be
+warned here, when you tie into the Gold Line you are on top of a very large silt
+pile, and the line is largely on the ceiling! The other option here, there is a
+marked jump 50-100’ past the tie in I’ve used, and just before the 2000’ marker.
+The marked jump is often buried in the sand (the line moves back to the floor
+just past King’s Canyon).  The canyon goes from ~90’ to ~45’ and is absolutely
+gorgeous! There are essentially levels above and below the line here, and at the
+back of it you’ll find the jump to King’s Bypass and probably C&L bypass.
 
 King’s Canyon is ~1800’ into the cave (more or less at 95’), and it took me ~90
-minutes to “swim” there. If you happen to be at JB with low flow, it’s still a
-60 minute swim to the jump to Kings Canyon.
+minutes to "swim" there with more normal flow. If you happen to be at JB with
+low flow, it’s still a 60 minute swim to the jump to Kings Canyon.
+
+# Memorial Room
+
+About 2,000' feet back, just off the Gold Line there is a collection of plaques
+and memorials honoring those who have died (some in caves). If you take the
+upper route to the trash room, just before you go down the chimney look about
+50' off the Gold Line.
 
 # Trash Room
 
-It is NOT recommended to swim here using the lower route. The lower route is
-also not recommended for backmount as you’ll hit a major restriction at the
-Rabbit’s Hole. The lower route takes you down a silt pile (where the gold line
-is mostly buried – but to be fair the line is buried just as much on the upper
-route), and there is no chance of pull and glide short of maybe spidermanning on
-the ceiling). The flow is like a fire hydrant coming out of the Rabbit Hole, and
-the Rabbit Hole itself is a major restriction for backmount (about half the size
-of the Court’s Squeeze). I actually have swam the lower route when the flow was
-down, just to verify the Ts. The flow can get a little funky going through the
-Rabbit Hole. It's not as tight as you might think, but it's definitelye asier
-with a scooter.
+It is NOT recommended to swim here using the lower route, at least not when the
+flow is up. Even when the flow isn't up, it's still pretty funky to swim through
+the lower route (I've had the flow push me towards King's Canyon on exit and try
+to pull me into "man won't fit land" past the rabbit hole).  The lower route is
+also not recommended for backmount as you’ll hit a restriction (similar to
+Court's Squeeze, you'll be just off the rocky / sandy bottom and touching the
+ceiling to get through, and you'll probably have to do some pull and glide) at
+the Rabbit’s Hole. The lower route takes you down a silt pile (where the gold
+line is mostly buried – but to be fair the line is buried just as much on the
+upper route), and there is no chance of pull and glide short of maybe
+spidermanning on the ceiling). The flow is like a fire hydrant coming out of the
+Rabbit Hole, and the Rabbit Hole itself is a restriction for backmount
+(about half the size of the Court’s Squeeze). I actually have swam the lower
+route when the flow was down, just to verify the Ts. The flow can get a little
+funky going through the Rabbit Hole. It's not as tight as you might think, but
+it's definitely easier with a scooter (sic). Once through the Rabbit Hole,
+you'll probably need to do some pull and glide and read the cave until you get
+to the 4th T.
 
 The route using the lower route is: Right at the 1st and 2nd ‘T’s and Left at
-T’s 3. The Upper route is all Rights at the first 3 ‘T’s. The upper route goes
+T 3. The Upper route is all Rights at the first 3 ‘T’s. The upper route goes
 up a sand pile before entering a rocky section (with increasing flow). You’ll
 find yourself up at 60’ before dropping down the chimney into the trash room.
 The chimney into the trash room would be pretty gnarly in a 0-viz exit, and you
@@ -369,7 +452,7 @@ higher before dropping back down the silt pile. Once you enter the trash room
 from the upper route, the line immediately disappears into a line trap, and
 reappears a few feet later. If push came to shove here, you can just barely see
 the gold line for the lower route on the other side. The upper and lower routes
-come together at a “Stop Light” and “Fire Extinguisher”. 
+come together at a "Stop Light" and "Fire Extinguisher". 
 
 Past King’s Canyon the line is often is buried in the sand, and this may include
 the T for the upper and lower routes.
